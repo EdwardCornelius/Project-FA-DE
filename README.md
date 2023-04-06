@@ -1,2 +1,2 @@
-# absen-pegawai
-Aplikasi Absen Pegawai
+# absen-siswa
+Aplikasi Absensi Online
